@@ -1,5 +1,4 @@
 #include "main.h"
-int jack_bauer(void);
 
 /**
  * main - check the code
@@ -10,6 +9,5 @@ int jack_bauer(void);
 int main(void)
 {
     jack_bauer();
-
     return (0);
 }
