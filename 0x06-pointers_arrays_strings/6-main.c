@@ -7,8 +7,7 @@
  */
 int main(void)
 {
-	char str[] = "Expect the best.\t
-		Prepare for the worst. Capitalize on what comes.\n
+	char str[] = "Expect the best. Prepare for the worst. Capitalize on what comes.\n
 		hello world! hello-world 0123456hello world\t
 		hello world.hello world\n";
 	char *ptr;
